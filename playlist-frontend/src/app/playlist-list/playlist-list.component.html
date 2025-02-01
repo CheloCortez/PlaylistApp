@@ -1,0 +1,10 @@
+<div>
+    <h2>Playlists</h2>
+    <ul>
+      <li *ngFor="let playlist of playlists">
+        {{ playlist.nome }} - {{ playlist.descricao }}
+        <button (click)="deletePlaylist(playlist.nome)">Delete</button>
+      </li>
+    </ul>
+  </div>
+  
