@@ -1,0 +1,8 @@
+com\spotify\playlistapi\security\SecurityConfig.class
+com\spotify\playlistapi\PlaylistApiApplication.class
+com\spotify\playlistapi\repository\PlaylistRepository.class
+com\spotify\playlistapi\controller\PlaylistController.class
+com\spotify\playlistapi\model\Musica.class
+com\spotify\playlistapi\repository\MusicaRepository.class
+com\spotify\playlistapi\model\Playlist.class
+com\spotify\playlistapi\service\PlaylistService.class
